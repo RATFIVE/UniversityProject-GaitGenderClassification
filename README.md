@@ -8,20 +8,7 @@ Ein **Proof-of-Concept (POC)**-Projekt zur geschlechtsspezifischen Klassifikatio
 
 ![image](image.png)
 
----
 
-## 📖 Inhaltsverzeichnis
-
-1. [Übersicht](#-übersicht)
-2. [Motivation & Forschungsfrage](#-motivation--forschungsfrage)
-3. [Installation](#️-installation)
-4. [Projektstruktur](#-projektstruktur)
-5. [Verwendung](#-verwendung)
-6. [Datenaufbereitung](#-datenaufbereitung)
-7. [Modell & Architektur](#-modell--architektur)
-8. [Experimente & Ergebnisse](#-experimente--ergebnisse)
-9. [Lizenz](#-lizenz)
-10. [Autoren & Kontakt](#-autoren--kontakt)
 
 ---
 
